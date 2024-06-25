@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "3439",
+      "name": "PONHARISHKUMAR",
+      "email": "ponharishkumars.21cse@kongu.edu",
+      "password": "sPhk0007"
+    },
+    {
+      "name": "abc",
+      "email": "abcd@gmail.com",
+      "password": "1234567890",
+      "id": "0ad9"
+    },
+    {
+      "name": "user1",
+      "email": "user@gmail.com",
+      "password": "clabogc",
+      "id": "2e17"
+    },
+    {
+      "id": "e15c",
+      "name": "user4",
+      "email": "user4@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "a2c3",
+      "name": "user5",
+      "email": "user5@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "7605",
+      "name": "user5",
+      "email": "user5@gmail.com",
+      "password": "12345"
+    }
+  ]
+}
